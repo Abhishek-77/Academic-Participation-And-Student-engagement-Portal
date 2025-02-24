@@ -96,6 +96,11 @@ The objective is to derive meaningful insights by calculating essential metrics 
 
 ![Image](https://github.com/user-attachments/assets/a3cb6995-0125-40f6-9a71-2ebf90d0ffc6)
 
+We have totall 1987 students enrolled for Data Analyst Course. Out of which 867 students are Male and 918 are female while 202 students chose not to disclose gender.
+Retentattion rate for female students is higher (668) than that of male (628) and for not disclosed students (138).
+Average of Attendance_Percentage is 74.94 which is as per average staandard.
+Enrollment trends shows consistancy with Max for month of May(193) and Min for month of Feb(152).
+It is evedent form enrollment trends that Female students are more interested in AI course each month on an average.
 
 2. Insight Of AI Course And Its Trends On All Aspects:
 
