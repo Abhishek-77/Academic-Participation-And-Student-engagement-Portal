@@ -39,12 +39,14 @@ The objective is to derive meaningful insights by calculating essential metrics 
 
 
 2. Attendance Trends By Courses:
+   
    75.72% is average attendance for courses.Data engineer cources have highest attendance(75.03%) and AI shows lowest 
    attendace precentage(74.93%). Female attendace percentage is nearly 75% for all the courses,where as Male attendace 
    varies between 74% and 75%.
 
 
 3. Retentation Rate By Gender Or Number Of Students:
+   
    Retention Rate is Maximum for DL course(1477).Out of 2031 students 1477 chose for Yes and 371 and 183 opt for no and NA 
    respectively. With 1397 students opting for Yes and 358 and 184 for No and NA out of 1939 students, ML has lowest 
    remtation Rate. Overall femal has meore retention rate as compared to male. Female retention is highest for DL(681) and 
@@ -54,22 +56,26 @@ The objective is to derive meaningful insights by calculating essential metrics 
 4. Total Counts Of Students:
 
 ![Image](https://github.com/user-attachments/assets/e2f799b6-71ea-4619-85c6-bbaf4ad16f26)
+
    Total Counts Of Students: : 10,000
 
 
 5. Average Age Of The Students:
+   
    Average age of students come out to be 23, which means students are enrolling alomost a year after completing their 
    graduation.
  
 
 6. Enrollment Trends Analysis:
+   
    Enrollment is maximum in month of January(874) and minimun in month of November(782).
    We see female enrolling maximum in month of January(404) and minimun in month of November(340).
    For Male maximum enrollment is in March(400) and lowest for Apr(349).
 
 
 7. Male And Female:
-   Totall enrollment for female is 4549 an dfor male it is 4451.While 1000 students chose not to disclose their gender.
+    
+   Totall enrollment for female is 4549 and for male it is 4451.While 1000 students chose not to disclose their gender.
 
 
 # Data Visualisaion:
@@ -78,31 +84,57 @@ The objective is to derive meaningful insights by calculating essential metrics 
 
 ![Image](https://github.com/user-attachments/assets/e2f799b6-71ea-4619-85c6-bbaf4ad16f26)
 
+As per Data:
+* Total Counts Of Students: 10,000
+* Average Age Of Students: 23
+
+Data can be filtered on basis of Gender:
+* Male  
+* Female
+* Not Disclosed
+
+Courses Included:
+* AI
+* Data Analyst
+* Data Engineer
+* DL
+* ML
+
 
 ## Enrollment Trends:
 
 ![Image](https://github.com/user-attachments/assets/5436c1f1-0990-47a0-bddb-94f89a1b97b4)
+
+Enrollment is highest for Jan and May(874) and min for 782.
 
 
 ## Attendance Trends:
 
 ![Image](https://github.com/user-attachments/assets/dc4fd9d2-d5c6-44ca-aa34-cbd83b662a58)
 
+Attendance is maximum for Data Engineer course (75.03%) and minimum for AI(74.93%).
+
 
 ## Gender-Wise Trends:
 
 ![Image](https://github.com/user-attachments/assets/c8d374f2-a261-40e2-bfee-b77e19975f23)
+
+Totall enrollment for female is 4549 and for male it is 4451.While 1000 students chose not to disclose their gender.
 
 
 ## Retentation Trends:
 
 ![Image](https://github.com/user-attachments/assets/1e113b3a-a1f6-4ee2-8dc5-c3f6217f23b8)
 
+Retenation Rate is max for AI (1472), though attence is least for same course. this rate is min for 1397 for ML.
+
 
 
 ## Highest and Lowest Course Ratings:
 
 ![Image](https://github.com/user-attachments/assets/c9a50bd6-5328-4907-9d82-ab172960fe95)
+
+Highest course rating is for AI - 2047 and lowest for ML- 1939.
 
 
 
@@ -125,7 +157,7 @@ It is evedent form enrollment trends that Female students are more interested in
 
 ![Image](https://github.com/user-attachments/assets/c9f90249-b66c-487c-8bf6-1076bd1021bd)
 
-Totall 2047 students enrolled for AI course. Amoung them 945 students are Male and 882 are female while 220 students chose not to disclose gender.
+Totall 2047 students enrolled for AI course. Amoung them 945 students are Male and 882 are female while 220 students have chosen not to disclose gender.
 Retentattion rate for Male students is higher (668) than that of Female (628) and for not disclosed students (138).
 74.87% is average of Attendance_Percentage.
 Enrollment trends shows consistancy with Max for month of Sep(185) and Min for month of May(151).
@@ -143,7 +175,7 @@ Retentattion rate for Female students is higher (640) than that of Male (611) an
 Enrollment trends shows consistancy with Max for month of May(197) and Min for month of Dec(133).
 
 
-4. Insight Of Data Analysis Course And Its Trends On All Aspects:
+4. Insight Of DL Course And Its Trends On All Aspects:
 
 ![Image](https://github.com/user-attachments/assets/0a8b69d2-38dd-4bd9-9c49-bd9f78d07ef9)
 
