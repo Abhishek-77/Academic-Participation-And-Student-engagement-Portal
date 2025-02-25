@@ -111,7 +111,7 @@ The objective is to derive meaningful insights by calculating essential metrics 
 
 
 ## Insights And Reports:
-1. Insight Of Data Analysis Course And Its Trends On All Aspects:
+1. Insight Of Data Analyst Course And Its Trends On All Aspects:
 
 ![Image](https://github.com/user-attachments/assets/a3cb6995-0125-40f6-9a71-2ebf90d0ffc6)
 
@@ -125,19 +125,44 @@ It is evedent form enrollment trends that Female students are more interested in
 
 ![Image](https://github.com/user-attachments/assets/c9f90249-b66c-487c-8bf6-1076bd1021bd)
 
+Totall 2047 students enrolled for AI course. Amoung them 945 students are Male and 882 are female while 220 students chose not to disclose gender.
+Retentattion rate for Male students is higher (668) than that of Female (628) and for not disclosed students (138).
+74.87% is average of Attendance_Percentage.
+Enrollment trends shows consistancy with Max for month of Sep(185) and Min for month of May(151).
+Interestingly, Males are enrolling more(945) for AI course than Female(882).
+
+
+
 3. Insight Of ML Course And Its Trends On All Aspects:
 
 ![Image](https://github.com/user-attachments/assets/f6bbd14c-348a-4445-8549-60978e416fd5)
+
+Overall 1939 students enrolled for ML.Amoung them 845 students are Male and 901 are Female while 193 students chose not to disclose gender. 
+Retentattion rate for Female students is higher (640) than that of Male (611) and for not disclosed students (146).
+74.99% is average of Attendance_Percentage.
+Enrollment trends shows consistancy with Max for month of May(197) and Min for month of Dec(133).
 
 
 4. Insight Of Data Analysis Course And Its Trends On All Aspects:
 
 ![Image](https://github.com/user-attachments/assets/0a8b69d2-38dd-4bd9-9c49-bd9f78d07ef9)
 
+Totall 2031 students enrolled for DL course. Amoung them 904 students are Male and 948 are female while 179 students chose not to disclose gender.
+Retentattion rate for Female students is higher (681) than that of Male (672) and for not disclosed students (124).
+75% is average of Attendance_Percentage.
+Enrollment trends shows consistancy with Max for month of Mar(185) and Min for month of Sep(146).
+
 
 5. Insight Of Data Engineer Course And Its Trends On All Aspects:
 
 ![Image](https://github.com/user-attachments/assets/08428003-f7c5-4bec-bbd8-b16a1e397dfc)
+
+We have totall 1996 students enrolled for Data Engineer Course. Out of which 890 students are Male and 900 are female while 206 students chose not to disclose gender.
+Retentattion rate for female students is higher (657) than that of male (622) and for not disclosed students (164).
+Average of Attendance_Percentage is 75.03 which is as per average staandard.
+Enrollment trends shows consistancy with Max for month of March(182) and Min for month of Feb and Mar(153).
+It is evedent form enrollment trends that Female students are more interested in Data Engineer course.
+
 
 
 ## Conclusion:
