@@ -19,6 +19,8 @@ The objective is to derive meaningful insights by calculating essential metrics 
 ## Data Cleaning:
 1. Addressed missing values by filling blanks and removing incomplete records in key fields such as Age, Gender, Attendance Percentage, Retention Rate, and Satisfaction Score.
 
+2. Approxamately 500 duplicate entries had been removed resulting total number of Students to 10,000 for final data Analysis. 
+
 2. Validated date formats for enrollment dates and ensured logical consistency in attendance values.
 
 3. Standardized column names and ensured consistency in formatting for improved data integrity.
