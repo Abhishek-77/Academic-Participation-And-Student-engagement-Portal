@@ -33,26 +33,43 @@ The objective is to derive meaningful insights by calculating essential metrics 
 ## EDA - Explorratory Data Analysis:
 1. Which Courses Had Highest And Lowest Satisfaction Scores:
 
+   On comparing satisfaction scores for the course we observed that AI has highest(2047) and ML has lowest(1939) 
+   satisfaction score. Its been an interesting observation that this score vaires as per gender for female it highest for 
+   DL(948) where as for Male highest is for AI(945).
+
 
 2. Attendance Trends By Courses:
+   75.72% is average attendance for courses.Data engineer cources have highest attendance(75.03%) and AI shows lowest 
+   attendace precentage(74.93%). Female attendace percentage is nearly 75% for all the courses,where as Male attendace 
+   varies between 74% and 75%.
 
 
-3. 3.Retentation Rate By Gender Or Number Of Students:
+3. Retentation Rate By Gender Or Number Of Students:
+   Retention Rate is Maximum for DL course(1477).Out of 2031 students 1477 chose for Yes and 371 and 183 opt for no and NA 
+   respectively. With 1397 students opting for Yes and 358 and 184 for No and NA out of 1939 students, ML has lowest 
+   remtation Rate. Overall femal has meore retention rate as compared to male. Female retention is highest for DL(681) and 
+   lowest for AI(630).On the other hand Male retenation rate is highest for AI(686) and lowest for ML(611).
 
 
 4. Total Counts Of Students:
 
 ![Image](https://github.com/user-attachments/assets/e2f799b6-71ea-4619-85c6-bbaf4ad16f26)
-
+   Total Counts Of Students: : 10,000
 
 
 5. Average Age Of The Students:
+   Average age of students come out to be 23, which means students are enrolling alomost a year after completing their 
+   graduation.
  
 
 6. Enrollment Trends Analysis:
+   Enrollment is maximum in month of January(874) and minimun in month of November(782).
+   We see female enrolling maximum in month of January(404) and minimun in month of November(340).
+   For Male maximum enrollment is in March(400) and lowest for Apr(349).
 
 
 7. Male And Female:
+   Totall enrollment for female is 4549 an dfor male it is 4451.While 1000 students chose not to disclose their gender.
 
 
 # Data Visualisaion:
